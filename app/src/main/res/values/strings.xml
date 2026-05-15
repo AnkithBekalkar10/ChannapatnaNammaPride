@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Channapatna - Namma Pride</string>
+    <string name="home_title">Channapatna</string>
+    <string name="home_subtitle">Namma Pride</string>
+    <string name="verify_my_toy">Verify My Toy</string>
+    <string name="toy_catalog">Toy Catalog</string>
+    <string name="workshop_map">Workshop Map</string>
+    <string name="how_its_made">How It\'s Made</string>
+    <string name="learn_title">200 Years of Heritage</string>
+    <string name="toy_id">Toy ID</string>
+    <string name="verify_now">Verify Now</string>
+    <string name="get_directions">Get directions</string>
+    <string name="wood_selection">Wood Selection</string>
+    <string name="lathe_turning">Lathe Turning</string>
+    <string name="lac_application">Lac Application</string>
+    <string name="finishing">Finishing</string>
+</resources>

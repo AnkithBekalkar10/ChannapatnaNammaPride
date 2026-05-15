@@ -1,0 +1,6 @@
+## Copy values into local.properties on your machine.
+## Do not commit real keys.
+
+sdk.dir=C\:\\Users\\YOUR_NAME\\AppData\\Local\\Android\\Sdk
+GEMINI_API_KEY=replace-with-your-gemini-api-key
+MAPS_API_KEY=replace-with-your-google-maps-api-key

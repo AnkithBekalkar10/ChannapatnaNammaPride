@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ಚನ್ನಪಟ್ಟಣ - ನಮ್ಮ ಹೆಮ್ಮೆ</string>
+    <string name="home_title">ಚನ್ನಪಟ್ಟಣ</string>
+    <string name="home_subtitle">ನಮ್ಮ ಹೆಮ್ಮೆ</string>
+    <string name="verify_my_toy">ನನ್ನ ಆಟಿಕೆಯನ್ನು ಪರಿಶೀಲಿಸಿ</string>
+    <string name="toy_catalog">ಆಟಿಕೆ ಪಟ್ಟಿ</string>
+    <string name="workshop_map">ಕಾರ್ಯಾಗಾರ ನಕ್ಷೆ</string>
+    <string name="how_its_made">ಇದನ್ನು ಹೇಗೆ ತಯಾರಿಸಲಾಗುತ್ತದೆ</string>
+    <string name="learn_title">200 ವರ್ಷಗಳ ಪರಂಪರೆ</string>
+    <string name="toy_id">ಆಟಿಕೆ ID</string>
+    <string name="verify_now">ಈಗ ಪರಿಶೀಲಿಸಿ</string>
+    <string name="get_directions">ದಿಕ್ಕುಗಳನ್ನು ಪಡೆಯಿರಿ</string>
+    <string name="wood_selection">ಮರ ಆಯ್ಕೆ</string>
+    <string name="lathe_turning">ಲೇತ್ ತಿರುಗಿಸುವಿಕೆ</string>
+    <string name="lac_application">ಲ್ಯಾಕರ್ ಅನ್ವಯ</string>
+    <string name="finishing">ಪೂರ್ಣಗೊಳಿಸುವಿಕೆ</string>
+</resources>

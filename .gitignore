@@ -1,0 +1,20 @@
+.gradle/
+.idea/
+build/
+app/build/
+local.properties
+*.iml
+
+# Firebase and signing secrets
+app/src/main/google-services.json
+*.jks
+*.keystore
+
+# JVM/Gradle crash artifacts
+hs_err_pid*.log
+replay_pid*.log
+java_pid*.hprof
+
+# Node tooling for Firebase seed scripts
+node_modules/
+package-lock.json

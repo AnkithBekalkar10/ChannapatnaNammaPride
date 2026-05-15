@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "96581782810",
+    "project_id": "trusty-catbird-456211-u9",
+    "storage_bucket": "trusty-catbird-456211-u9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96581782810:android:762d408ff66aaa938bb0a3",
+        "android_client_info": {
+          "package_name": "com.channapatna.nammapride"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx0huESrag6EOHRF4zqdSvdXJ1P678_cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

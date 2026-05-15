@@ -1,0 +1,240 @@
+{
+  "toys": [
+    {
+      "toyId": "123456",
+      "artisanId": "ART001",
+      "category": "Rocking Horses",
+      "name": "Rainbow Galloper",
+      "creationDate": "2026-01-15",
+      "imageUrl": "gs://channapatna-pride.appspot.com/toys/toy_123456.jpg",
+      "price": 1200,
+      "verified": true,
+      "giTagNumber": "GI-2005-00063"
+    },
+    {
+      "toyId": "234567",
+      "artisanId": "ART002",
+      "category": "Traditional Dolls",
+      "name": "Forest Spinner",
+      "creationDate": "2026-02-04",
+      "imageUrl": "gs://channapatna-pride.appspot.com/toys/toy_234567.jpg",
+      "price": 480,
+      "verified": true,
+      "giTagNumber": "GI-2005-00063"
+    },
+    {
+      "toyId": "345678",
+      "artisanId": "ART003",
+      "category": "Traditional Dolls",
+      "name": "Little Dasara Doll",
+      "creationDate": "2026-03-12",
+      "imageUrl": "gs://channapatna-pride.appspot.com/toys/toy_345678.jpg",
+      "price": 760,
+      "verified": true,
+      "giTagNumber": "GI-2005-00063"
+    },
+    {
+      "toyId": "456789",
+      "artisanId": "ART004",
+      "category": "Miniature Vehicles",
+      "name": "Classic Steam Engine",
+      "creationDate": "2026-04-18",
+      "imageUrl": "gs://channapatna-pride.appspot.com/toys/toy_456789.jpg",
+      "price": 980,
+      "verified": true,
+      "giTagNumber": "GI-2005-00063"
+    },
+    {
+      "toyId": "567890",
+      "artisanId": "ART005",
+      "category": "Traditional Dolls",
+      "name": "Counting Beads Set",
+      "creationDate": "2026-05-02",
+      "imageUrl": "gs://channapatna-pride.appspot.com/toys/toy_567890.jpg",
+      "price": 420,
+      "verified": true,
+      "giTagNumber": "GI-2005-00063"
+    },
+    {
+      "toyId": "678901",
+      "artisanId": "ART001",
+      "category": "Rocking Horses",
+      "name": "Wooden Carousel Horse",
+      "creationDate": "2026-05-15",
+      "imageUrl": "gs://channapatna-pride.appspot.com/toys/toy_678901.jpg",
+      "price": 1350,
+      "verified": true,
+      "giTagNumber": "GI-2005-00063"
+    },
+    {
+      "toyId": "789012",
+      "artisanId": "ART002",
+      "category": "Animal Figurines",
+      "name": "Lacquer Elephant",
+      "creationDate": "2026-05-12",
+      "imageUrl": "gs://channapatna-pride.appspot.com/toys/toy_789012.jpg",
+      "price": 890,
+      "verified": true,
+      "giTagNumber": "GI-2005-00063"
+    },
+    {
+      "toyId": "890123",
+      "artisanId": "ART003",
+      "category": "Traditional Dolls",
+      "name": "Festival Dancing Doll",
+      "creationDate": "2026-05-12",
+      "imageUrl": "gs://channapatna-pride.appspot.com/toys/toy_890123.jpg",
+      "price": 1120,
+      "verified": true,
+      "giTagNumber": "GI-2005-00063"
+    }
+  ],
+  "artisans": [
+    {
+      "artisanId": "ART001",
+      "name": "Rangappa K.M.",
+      "nameKannada": "ರಂಗಪ್ಪ ಕೆ.ಎಂ.",
+      "photoUrl": "gs://channapatna-pride.appspot.com/artisans/art001.jpg",
+      "village": "Channapatna",
+      "experience": 35,
+      "bio": "Third generation master craftsperson known for smooth hand-lathe shaping and natural lacquer finishing.",
+      "bioKannada": "ಮೂರನೇ ಪೀಳಿಗೆಯ ಚನ್ನಪಟ್ಟಣ ಆಟಿಕೆ ಕಲಾವಿದ.",
+      "workshopId": "WS001",
+      "specialization": "Rocking horses"
+    },
+    {
+      "artisanId": "ART002",
+      "name": "Lakshmi Narayana",
+      "nameKannada": "ಲಕ್ಷ್ಮಿ ನಾರಾಯಣ",
+      "photoUrl": "gs://channapatna-pride.appspot.com/artisans/art002.jpg",
+      "village": "Neelasandra",
+      "experience": 22,
+      "bio": "A family workshop lead who trains young makers in vegetable-dyed lacquer and precision assembly.",
+      "bioKannada": "ಲ್ಯಾಕರ್ ಬಣ್ಣ ಮತ್ತು ಜೋಡಣೆಯಲ್ಲಿ ಯುವ ಕಲಾವಿದರಿಗೆ ತರಬೇತಿ ನೀಡುವವರು.",
+      "workshopId": "WS002",
+      "specialization": "Animal figurines"
+    },
+    {
+      "artisanId": "ART003",
+      "name": "Meenakshi Devi",
+      "nameKannada": "ಮೀನಾಕ್ಷಿ ದೇವಿ",
+      "photoUrl": "gs://channapatna-pride.appspot.com/artisans/art003.jpg",
+      "village": "Channapatna",
+      "experience": 18,
+      "bio": "A designer-maker blending classic Channapatna silhouettes with playful modern color stories.",
+      "bioKannada": "ಸಾಂಪ್ರದಾಯಿಕ ಆಕಾರಗಳಿಗೆ ಆಧುನಿಕ ಬಣ್ಣದ ಭಾಷೆ ನೀಡುವ ಕಲಾವಿದೆ.",
+      "workshopId": "WS003",
+      "specialization": "Traditional dolls"
+    } ,
+    {
+      "artisanId": "ART004",
+      "name": "Shankarappa",
+      "nameKannada": "ಶಂಕರಪ್ಪ",
+      "photoUrl": "gs://channapatna-pride.appspot.com/artisans/art004.jpg",
+      "village": "Kaggalipura",
+      "experience": 28,
+      "bio": "Master of miniature vehicles and trains, known for intricate detailing and smooth movements.",
+      "bioKannada": "ಕ್ಷುದ್ರ ವಾಹನಗಳು ಮತ್ತು ರೈಲುಗಳ ನಿಪುಣತೆ, ಸೂಕ್ಷ್ಮ ವಿವರಗಳು ಮತ್ತು ಮೃದುವಾದ ಚಲನೆಗಳಿಗೆ ಹೆಸರುವಾಸಿ.",
+      "workshopId": "WS004",
+      "specialization": "Miniature vehicles"
+    },
+    {
+      "artisanId": "ART005",
+      "name": "Gowramma",
+      "nameKannada": "ಗೌರಮ್ಮ",
+      "photoUrl": "gs://channapatna-pride.appspot.com/artisans/art005.jpg",
+      "village": "Channapatna",
+      "experience": 15,
+      "bio": "Young craftsperson specializing in educational toys and puzzles that promote learning through play.",
+      "bioKannada": "ಆಟದ ಮೂಲಕ ಕಲಿಕೆಯನ್ನು ಪ್ರೋತ್ಸಾಹಿಸುವ ಶೈಕ್ಷಣಿಕ ಆಟಿಕೆಗಳು ಮತ್ತು ಪಜಲ್‌ಗಳಲಿ ಪರಿಣತಿ ಹೊಂದಿರುವ ಯುವ ಕಲಾವಿದೆ.",
+      "workshopId": "WS005",
+      "specialization": "Educational puzzles"
+    }
+  ],
+  "workshops": [
+    {
+      "workshopId": "WS001",
+      "name": "Rangappa's Traditional Toys",
+      "nameKannada": "ರಂಗಪ್ಪನ ಸಾಂಪ್ರದಾಯಿಕ ಆಟಿಕೆಗಳು",
+      "address": "Market Road, Channapatna, Karnataka 571501",
+      "latitude": 12.6518,
+      "longitude": 77.2069,
+      "phone": "+91 98765 43210",
+      "timings": "9:00 AM - 6:00 PM",
+      "artisanIds": ["ART001"]
+    },
+    {
+      "workshopId": "WS002",
+      "name": "Neelasandra Lac Works",
+      "nameKannada": "ನೀಲಸಂದ್ರ ಲ್ಯಾಕರ್ ವರ್ಕ್ಸ್",
+      "address": "Neelasandra Road, Channapatna, Karnataka",
+      "latitude": 12.6602,
+      "longitude": 77.2141,
+      "phone": "+91 98450 11223",
+      "timings": "10:00 AM - 6:30 PM",
+      "artisanIds": ["ART002"]
+    },
+    {
+      "workshopId": "WS003",
+      "name": "Namma Bombe Studio",
+      "nameKannada": "ನಮ್ಮ ಬೊಂಬೆ ಸ್ಟುಡಿಯೋ",
+      "address": "Toy Street, Channapatna, Karnataka",
+      "latitude": 12.6484,
+      "longitude": 77.2094,
+      "phone": "+91 99807 44551",
+      "timings": "9:30 AM - 7:00 PM",
+      "artisanIds": ["ART003"]
+    },
+    {
+      "workshopId": "WS004",
+      "name": "Shankarappa Miniature Works",
+      "nameKannada": "ಶಂಕರಪ್ಪ ಕ್ಷುದ್ರ ವರ್ಕ್ಸ್",
+      "address": "Kaggalipura Cross, Channapatna, Karnataka",
+      "latitude": 12.6554,
+      "longitude": 77.1988,
+      "phone": "+91 99008 22117",
+      "timings": "8:30 AM - 5:30 PM",
+      "artisanIds": ["ART004"]
+    },
+    {
+      "workshopId": "WS005",
+      "name": "Gowramma Educational Toys",
+      "nameKannada": "ಗೌರಮ್ಮ ಶೈಕ್ಷಣಿಕ ಆಟಿಕೆಗಳು",
+      "address": "Old Bus Stand Road, Channapatna, Karnataka",
+      "latitude": 12.6468,
+      "longitude": 77.2026,
+      "phone": "+91 94488 77120",
+      "timings": "9:00 AM - 6:00 PM",
+      "artisanIds": ["ART005"]
+    }
+  ],
+  "educational_content": [
+    {
+      "contentId": "EDU001",
+      "title": "Wood Selection",
+      "titleKannada": "ಮರ ಆಯ್ಕೆ",
+      "type": "process_step",
+      "stepNumber": 1,
+      "description": "Locally suitable hale wood is seasoned and chosen for strength, grain, and smooth turning.",
+      "descriptionKannada": "ಬಲ, ರಚನೆ ಮತ್ತು ಮೃದುವಾದ ತಿರುಗಿಸುವಿಕೆಗೆ ಸೂಕ್ತವಾದ ಮರವನ್ನು ಆಯ್ಕೆ ಮಾಡಲಾಗುತ್ತದೆ."
+    },
+    {
+      "contentId": "EDU002",
+      "title": "Lathe Turning",
+      "titleKannada": "ಲೇತ್ ತಿರುಗಿಸುವಿಕೆ",
+      "type": "process_step",
+      "stepNumber": 2,
+      "description": "The maker shapes the toy on a hand or power lathe, reading the curve by touch as much as by sight.",
+      "descriptionKannada": "ಕಲಾವಿದನು ಲೇತ್ ಮೇಲೆ ಆಕಾರವನ್ನು ಕೈಯ ಸ್ಪರ್ಶ ಮತ್ತು ದೃಷ್ಟಿಯಿಂದ ರೂಪಿಸುತ್ತಾನೆ."
+    },
+    {
+      "contentId": "EDU003",
+      "title": "Lac Application",
+      "titleKannada": "ಲ್ಯಾಕರ್ ಅನ್ವಯ",
+      "type": "process_step",
+      "stepNumber": 3,
+      "description": "Natural lacquer sticks add the bright Channapatna color while the piece is still spinning warm.",
+      "descriptionKannada": "ಮರ ತಿರುಗುತ್ತಿರುವಾಗಲೇ ನೈಸರ್ಗಿಕ ಲ್ಯಾಕರ್ ಬಣ್ಣವನ್ನು ಹಚ್ಚಲಾಗುತ್ತದೆ."
+    }
+  ]
+}
